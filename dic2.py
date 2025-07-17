@@ -49,6 +49,7 @@ def newuser():
 
 main()
 
+print('python')
 
 
 
